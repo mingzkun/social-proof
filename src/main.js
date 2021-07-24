@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import SocialProof from './SocialProof.vue'
+import './assets/tailwind.css'
 
-createApp(App).mount('#app')
+createApp(SocialProof).mount('#SocialProof')
